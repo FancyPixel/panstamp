@@ -18,10 +18,10 @@
           "architecture":"msp430",
           "version":"1.1.1",
           "category":"panStamp NRG",
-          "url":"https://github.com/FancyPixel/arduino_nrg/archive/1.1.0.tar.gz",
-          "archiveFileName":"1.1.0.tar.gz",
-          "checksum":"SHA-256:750e4729c83abbc26c3a3420ab87f7dafad46d7026d88aeba035f4cce4a508cc",
-          "size":"6672577",
+          "url":"https://github.com/FancyPixel/arduino_nrg/archive/1.1.1.tar.gz",
+          "archiveFileName":"1.1.1.tar.gz",
+          "checksum":"SHA-256:1a925e25cbc3552e458262ea68caf49cf6751a34ee9a5e0cb210a382580efdf2",
+          "size":"5478898",
           "help":
           {
             "online":"https://github.com/FancyPixel/panstamp/wiki"
