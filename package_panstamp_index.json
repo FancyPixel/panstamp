@@ -16,12 +16,12 @@
         {
           "name":"panStamp NRG w/ CC430F5137",
           "architecture":"msp430",
-          "version":"1.1.1",
+          "version":"1.1.2",
           "category":"panStamp NRG",
-          "url":"https://github.com/FancyPixel/arduino_nrg/archive/1.1.1.tar.gz",
+          "url":"https://github.com/FancyPixel/arduino_nrg/archive/1.1.2.tar.gz",
           "archiveFileName":"1.1.1.tar.gz",
-          "checksum":"SHA-256:1a925e25cbc3552e458262ea68caf49cf6751a34ee9a5e0cb210a382580efdf2",
-          "size":"5478898",
+          "checksum":"SHA-256:d49beb429b9b77dbf6818bd4891ccf60757a72aaa5cb2eb936e50bf00893d1f7",
+          "size":"5479004",
           "help":
           {
             "online":"https://github.com/FancyPixel/panstamp/wiki"
